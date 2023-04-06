@@ -17,8 +17,8 @@ dependencies:
     specifier: ^0.1.1
     version: 0.1.1
   node-fetch-native:
-    specifier: ^1.0.2
-    version: 1.0.2
+    specifier: ^1.1.0
+    version: 1.1.0
   ohash:
     specifier: ^1.0.0
     version: 1.0.0
@@ -3852,7 +3852,7 @@ packages:
       defu: 6.1.2
       https-proxy-agent: 5.0.1
       mri: 1.2.0
-      node-fetch-native: 1.0.2
+      node-fetch-native: 1.1.0
       pathe: 1.1.0
       tar: 6.1.13
     transitivePeerDependencies:
@@ -4250,7 +4250,7 @@ packages:
       etag: 1.8.1
       image-meta: 0.1.1
       listhen: 1.0.4
-      node-fetch-native: 1.0.2
+      node-fetch-native: 1.1.0
       pathe: 1.1.0
       sharp: 0.32.0
       ufo: 1.1.1
@@ -5032,7 +5032,7 @@ packages:
       mime: 3.0.0
       mlly: 1.2.0
       mri: 1.2.0
-      node-fetch-native: 1.0.2
+      node-fetch-native: 1.1.0
       ofetch: 1.0.1
       ohash: 1.0.0
       pathe: 1.1.0
@@ -5083,8 +5083,8 @@ packages:
     engines: {node: '>=10.5.0'}
     dev: true
 
-  /node-fetch-native@1.0.2:
-    resolution: {integrity: sha512-KIkvH1jl6b3O7es/0ShyCgWLcfXxlBrLBbP3rOr23WArC66IMcU4DeZEeYEOwnopYhawLTn7/y+YtmASe8DFVQ==}
+  /node-fetch-native@1.1.0:
+    resolution: {integrity: sha512-nl5goFCig93JZ9FIV8GHT9xpNqXbxQUzkOmKIMKmncsBH9jhg7qKex8hirpymkBFmNQ114chEEG5lS4wgK2I+Q==}
 
   /node-fetch@2.6.7:
     resolution: {integrity: sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==}
@@ -5297,7 +5297,7 @@ packages:
     resolution: {integrity: sha512-icBz2JYfEpt+wZz1FRoGcrMigjNKjzvufE26m9+yUiacRQRHwnNlGRPiDnW4op7WX/MR6aniwS8xw8jyVelF2g==}
     dependencies:
       destr: 1.2.2
-      node-fetch-native: 1.0.2
+      node-fetch-native: 1.1.0
       ufo: 1.1.1
     dev: true
 
@@ -6878,7 +6878,7 @@ packages:
     dependencies:
       defu: 6.1.2
       mime: 3.0.0
-      node-fetch-native: 1.0.2
+      node-fetch-native: 1.1.0
       pathe: 1.1.0
     dev: true
 
@@ -6955,7 +6955,7 @@ packages:
       listhen: 1.0.4
       lru-cache: 7.18.3
       mri: 1.2.0
-      node-fetch-native: 1.0.2
+      node-fetch-native: 1.1.0
       ofetch: 1.0.1
       ufo: 1.1.1
     transitivePeerDependencies:
